@@ -4,7 +4,10 @@
 <div align="center">
   <h2>👋 Hey, I’m joshmeki!</h2>
   <h3>Senior Full-Stack Developer | Web3 Enthusiast</h3>
+  
+  ![Visitor Count](https://count.getloli.com/get/@joshmeki?theme=rule34)
 </div>
+
 
 I’m a full-stack developer driven by clean code, great UI/UX, and the limitless potential of blockchain technologies.  
 Whether it's backend logic, frontend finesse, or decentralized systems — I'm all in.  
